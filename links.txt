@@ -1,0 +1,26 @@
+'https://www.thehindubusinessline.com/markets/commodities/What-the-sugar-industry-can-realistically-expect/article20809819.ece',
+'https://www.thehindubusinessline.com/markets/commodities/We-don%E2%80%99t-need-sugar-imports-raise-the-import-duty/article20809818.ece',
+'https://www.thehindubusinessline.com/economy/Revive-investment-cycle-to-address-steel-industry-woes/article20809828.ece',
+'https://www.thehindubusinessline.com/economy/Ease-mining-curbs-Govt-urged/article20809829.ece',
+'https://www.thehindubusinessline.com/economy/Stronger-rupee-to-aid-steel-producers/article20809830.ece',
+'https://www.thehindubusinessline.com/economy/clearing-stalled-projects-will-boost-demand/article20809831.ece1',
+'https://www.thehindubusinessline.com/economy/Auto-industry-wants-excise-breather-to-continue/article20809796.ece',
+'https://www.thehindubusinessline.com/economy/Industry-seeks-more-sops-hails-duty-cut-extension/article20809794.ece',
+'https://www.thehindubusinessline.com/news/variety/Tourism-sector-hopes-for-a-leg-up-from-Budget/article20813359.ece',
+'https://www.thehindubusinessline.com/news/budget-2021-removing-gst-audit-will-be-retrograde-step-icai-tells-govt/article33803192.ece'
+
+MANifestos
+'https://dmk.in/dmk-manifesto-english-2021','http://aiadmk.org.in/wp-content/uploads/2017/01/TN-VISION-2023_Volume-II.pdf',
+
+Andhra women shg:
+'https://shodhganga.inflibnet.ac.in/jspui/handle/10603/286301','https://shodhganga.inflibnet.ac.in/jspui/handle/10603/286194',https://shodhganga.inflibnet.ac.in/jspui/handle/10603/269436
+https://shodhganga.inflibnet.ac.in/jspui/handle/10603/269433
+https://shodhganga.inflibnet.ac.in/jspui/handle/10603/188125
+
+Budget:
+'https://www.thehindubusinessline.com/economy/budget/for-the-first-time-budget-mentions-of-one-health-institution-on-the-back-of-covid-19-pandemic/article33719738.ece
+'https://www.thehindubusinessline.com/economy/budget/budget-2021-focus-on-infrastructure-assets-and-17-new-phu/article33716657.ece'
+'https://www.thehindubusinessline.com/economy/budget/social-infrastructure-mission-poshan-20-jal-jeevan-urban-higher-education-commission-and-urban-swachh-bharat-mission-20-announced/article33715691.ece'
+'https://www.thehindubusinessline.com/data-stories/visually/budget-expectations-in-pandemic-times/article33698517.ece'
+'https://www.thehindubusinessline.com/economy/budget/budget-2021-ayurveda-sector-looks-for-a-better-deal-from-budget/article33708226.ece'
+'https://www.thehindubusinessline.com/economy/budget/a-balanced-budget-for-the-post-covid-era/article33720542.ece'
